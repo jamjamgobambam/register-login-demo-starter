@@ -1,0 +1,21 @@
+li img {
+  width: 75px;
+  height: auto;
+  margin-right: 10px;
+}
+
+.secret-page {
+  text-align: center;
+}
+
+.secret-page h1 {
+  font-size: 3em;
+}
+
+.secret-page img {
+  width: 300px;
+  height: auto;
+  text-align: center;
+  border: 3px solid var(--primary);
+  border-radius: 5px;
+}
